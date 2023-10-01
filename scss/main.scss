@@ -1,0 +1,18 @@
+
+$light: #ffffff;
+$dark: #343a40;
+$white:    #e9e8e8 ;
+
+
+$font-family-sans-serif: 'Roboto', sans-serif;
+
+$body-bg: #f2f2f2;
+
+
+$enable-responsive-font-sizes: true;
+
+$enable-rounded: false;
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
